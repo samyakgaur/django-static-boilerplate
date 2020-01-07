@@ -1,1 +1,2 @@
 # django-static-boilerplate
+u
