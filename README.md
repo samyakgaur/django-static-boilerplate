@@ -1,3 +1,3 @@
 # django-static-boilerplate
-u
-Boilerplate for 
+
+Boilerplate handling static
