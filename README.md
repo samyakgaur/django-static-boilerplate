@@ -1,5 +1,5 @@
 # Django Project Boilerplate
-
+https://travis-ci.com/samyakgaur/Computer-Graphics.svg?token=KjgVfMNy23UsVHAx23Yx&branch=master
 This repository is a boilerplate Django project for quickly getting started.
 
 ## Getting started
