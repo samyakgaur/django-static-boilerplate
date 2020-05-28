@@ -20,4 +20,4 @@
       - mysql -e 'create database test;' -u root
     script: # => 7
       - cd project
-      - python manage.py runserver
+      - python manage.py test
