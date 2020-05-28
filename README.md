@@ -1,5 +1,4 @@
-# Django Project Boilerplate [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Build Status](https://travis-ci.com/samyakgaur/django-static-boilerplate.svg?branch=master)](https://travis-ci.com/samyakgaur/django-static-boilerplate)
+# Django Project Boilerplate [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)[![Build Status](https://travis-ci.com/samyakgaur/django-static-boilerplate.svg?branch=master)](https://travis-ci.com/samyakgaur/django-static-boilerplate)
 
 This repository is a boilerplate Django project for quickly getting started.
 
