@@ -20,7 +20,7 @@ Steps:
      venv\Scripts\activate
      pip install -r requirements.txt
      ```
-3. Configure your .venv variables
+3. Configure your .venv variables.
 4. Rename your project with `python manage.py rename <yourprojectname> <newprojectname>`
 
 This project includes:
