@@ -24,5 +24,5 @@ Steps:
 4. Rename your project with `python manage.py rename <yourprojectname> <newprojectname>`
 
 This project includes:
-1. Django commands for renaming your project and creating a superuser
+1. Django commands for renaming your project and creating a superuser.
 2. A cli tool for setting environment variables for deployment.
